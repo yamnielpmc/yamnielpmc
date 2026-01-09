@@ -1,8 +1,8 @@
 # 💫 About Me:
-soy un estudiante de ciencias de computadoras en la Universidad de<br>Puerto Rico en Bayamon. Durante mi tiempo fuera, he estado mejorando<br>mis habilidades en programacion con varios projectos, incluyendo<br>un website personalizado, un sistema de cajas para mi trabajo, entre otros
+Hola, me llamo Yamniel Negroni Febus. Soy un estudiante de Ciencias de Computadoras en la Universidad de<br>Puerto Rico en Bayamon. Durante mi tiempo fuera, he estado mejorando<br>mis habilidades en programacion con varios projectos, incluyendo<br>un website personalizado, un sistema de cajas para mi trabajo, mejorando proyectos de clase, entre otros
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/YamnielNegroni)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yamnielpmc)
 
